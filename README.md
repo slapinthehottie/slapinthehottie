@@ -20,9 +20,9 @@
 </p>
    
    
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=slapinthehottie&theme=radical" alt="slapinthehottie" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=slapinthehottie&theme=radical" alt="slapinthehottie" style="width:45%"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=slapinthehottie&show_icons=true&locale=en&theme=radical" alt="slapinthehottie" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=slapinthehottie&show_icons=true&locale=en&theme=radical" alt="slapinthehottie" style="width:45%"/></p>
 
 
 
