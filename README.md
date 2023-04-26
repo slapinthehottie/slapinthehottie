@@ -1,4 +1,4 @@
-img src="[https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME](https://wallpaperaccess.com/full/2471354.gif)">
+img src="[(https://wallpaperaccess.com/full/2471354.gif)]">
 
 ### coé 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
