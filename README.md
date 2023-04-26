@@ -1,8 +1,8 @@
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=slapinthehottie&label=Profile%20views&color=0e75b6&style=flat" alt="slapinthehottie" /> </p>
+<h3 align="center">Um garoto de programa que faz todo tipo de programa</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=slapinthehottie&label=Profile%20views&color=0e75b6&style=flat" alt="slapinthehottie" /> </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=" https://github-profile-trophy.vercel.app/?username=slapinthehottie" alt="slapinthehottie" /></a> </p><h3 align="left">Conecte-se comigo:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=" https://github-profile-trophy.vercel.app/?username=slapinthehottie" alt="slapinthehottie" /></a> </p><h3 align="left">segue o pai:</h3>
 
 
 <p align="left">
